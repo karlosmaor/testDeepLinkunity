@@ -1,0 +1,10 @@
+<html>
+<head>
+   <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+</head>
+<body >
+   <h1>My Deep Link Test page</h1>
+   <p><a href="unitydl://babel?meetingid=123456">Launch</a></p>
+   <p><a href="unitydl://babel?meetingid=61fd52bdfb85500019982482">Launch with Parameter</a></p>
+</body>
+</html>
